@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Decor
+  - Water
+  - Bridge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Bridge
+  - Ground
+  - Background
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background-2
+    uniqueID: 3710741519
+    locked: 0
+  - name: Background-1
+    uniqueID: 118231851
+    locked: 0
+  - name: Background
+    uniqueID: 3003694219
+    locked: 0
+  - name: Middleground
+    uniqueID: 2208174483
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NPC
+    uniqueID: 3124670011
+    locked: 0
+  - name: Player
+    uniqueID: 3288324497
+    locked: 0
+  - name: Foreground
+    uniqueID: 1416170929
+    locked: 0
+  - name: Foreground-1
+    uniqueID: 2240068689
+    locked: 0
